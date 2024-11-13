@@ -11,3 +11,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript" />
 <br>
 <br>
+<img src="https://github.com/NicollasAlmeida14/super-mario-bros/blob/main/img/Super%20M%C3%A1rio%20desktop.png?raw=true" width="500px" alt="imagem-site-do-mário-desktop" />
